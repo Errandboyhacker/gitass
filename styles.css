@@ -1,0 +1,26 @@
+img{width: 400px;;height: 500px;;}
+body{background-color: aqua;}
+a:link {
+    background-color: #82ec09;
+    color: rgb(0, 0, 0);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  a:visited {
+    background-color: #edf7e2;
+    color: rgb(0, 0, 0);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover {
+    background-color: rgb(0, 255, 191);
+  }
+  a:active {
+    background-color: rgb(26, 99, 8);
+  }
